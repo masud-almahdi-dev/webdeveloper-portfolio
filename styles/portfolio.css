@@ -193,3 +193,26 @@ footer{
     margin-top: 113px;
     padding: 130px 200px;
 }
+.footer-column{
+    width: 50%;
+}
+.social-links a{
+    margin-right: 25px;
+}
+.footer-column .section-title{
+    text-align: left;
+}
+.footer-column .section-description{
+    text-align: left;
+    font-size: 16px;
+    max-width: 562px;
+}
+.contact input[type="text"], .contact input[type="email"], textarea{
+    display: block;
+    margin-bottom: 24px;
+    padding: 18px 35px;
+    color: #757575;
+    border: none;
+    font-family: 'Open Sans', sans-serif;
+    width: 100%;
+}
