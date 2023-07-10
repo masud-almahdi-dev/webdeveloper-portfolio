@@ -153,3 +153,44 @@ main section{
     font-size: 30px;
     font-weight: 700;
 }
+.resume-container{
+    display: flex;
+    gap:50px;
+}
+.resume-item-title{
+    color: #474747;
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.resume-item-institute{
+    color: #757575;
+    font-size: 20px;
+    margin-bottom: 20;
+}
+.resume-item-description{
+    color: #757575;
+    font-size: 16px;
+}
+.resume-container hr{
+    margin: 30px;
+}
+.resume .section-title{
+    margin-bottom: 113px;
+}
+.download-cv{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 113px;
+}
+
+
+/* footer styles */
+
+footer{
+    display: flex;
+    background-color: #FFF8F3;
+    margin-top: 100px;
+    padding: 130px 200px;
+}
